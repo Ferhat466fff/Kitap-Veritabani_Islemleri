@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sınıf_Üzerinden_Veri_Tabanı_İşlemleri_(OOP)", "Sınıf_Üzerinden_Veri_Tabanı_İşlemleri_(OOP)\Sınıf_Üzerinden_Veri_Tabanı_İşlemleri_(OOP).csproj", "{55AE379C-B646-4315-804B-4FE39752544C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55AE379C-B646-4315-804B-4FE39752544C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55AE379C-B646-4315-804B-4FE39752544C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55AE379C-B646-4315-804B-4FE39752544C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55AE379C-B646-4315-804B-4FE39752544C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F804817A-BFAD-48A1-9CBF-7771950E3259}
+	EndGlobalSection
+EndGlobal
